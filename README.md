@@ -37,7 +37,7 @@ Additionally, the user can specify:
 - Learning factor, minimum error, maximum number of iterations
 
 ## Screenshots
-Example screenshots showing the operation of the network training script:
+Example screenshots showing the operation of the network training script.
 
 Example diagram of the learning process:<br>
 ![Learning Process](/images/learning.PNG)
